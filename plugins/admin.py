@@ -2,7 +2,7 @@ import os
 from pyrogram import Client, filters
 from helper.date import add_date
 from helper.database import uploadlimit , usertype,addpre
-ADMIN = int(os.environ.get("ADMIN", 1255023013))
+ADMIN = int(os.environ.get("ADMIN", 5817124748))
 from pyrogram.types import (InlineKeyboardButton, InlineKeyboardMarkup,ForceReply)
 
 
@@ -79,5 +79,5 @@ async def dft(bot,update):
 	usertype(int(user_id),"Free")
 	addpre(int(user_id))
 	await update.message.edit("ᴜꜱᴇʀ  ʟɪᴍɪᴛ  ʜᴀꜱ  ʙᴇᴇɴ  ʀᴇꜱᴇᴛ  ꜱᴜᴄᴄᴇꜱꜱꜱꜰᴜʟʟʏ.")
-	await bot.send_message(user_id,"ʏᴏᴜʀ  ʟɪᴍɪᴛ  ʜᴀꜱ  ʙᴇᴇɴ  ʀᴇꜱᴇᴛ  ꜱᴜᴄᴄᴇꜱꜱꜱꜰᴜʟʟʏ.\n\nᴄᴏɴᴛᴀᴄᴛ  <a href='https://telegram.dog/NobiDeveloperr'>**ᴏᴡɴᴇʀ**</a>  ꜰᴏʀ  ᴍᴏʀᴇ  ᴅᴇᴛᴀɪʟꜱ.")
+	await bot.send_message(user_id,"ʏᴏᴜʀ  ʟɪᴍɪᴛ  ʜᴀꜱ  ʙᴇᴇɴ  ʀᴇꜱᴇᴛ  ꜱᴜᴄᴄᴇꜱꜱꜱꜰᴜʟʟʏ.\n\nᴄᴏɴᴛᴀᴄᴛ  <a href='https://telegram.dog/Zenitsu_AF'>**ᴏᴡɴᴇʀ**</a>  ꜰᴏʀ  ᴍᴏʀᴇ  ᴅᴇᴛᴀɪʟꜱ.")
 
