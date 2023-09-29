@@ -2,7 +2,7 @@ import os
 from pyrogram import Client, filters
 from helper.date import add_date
 from helper.database import uploadlimit , usertype,addpre
-ADMIN = int(os.environ.get("ADMIN", 5817124748))
+ADMIN = int(os.environ.get("ADMIN", 5817124748 5009250822))
 from pyrogram.types import (InlineKeyboardButton, InlineKeyboardMarkup,ForceReply)
 
 
