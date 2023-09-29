@@ -90,9 +90,9 @@ async def send_doc(client,message):
        c_time = time.time()
        
        if user_type=="Free":
-           LIMIT = 600
+           LIMIT = 00
        else:
-           LIMIT = 50
+           LIMIT = 00
        then = used_date+ LIMIT
        left = round(then - c_time)
        conversion = datetime.timedelta(seconds=left)
