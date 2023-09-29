@@ -16,19 +16,19 @@ async def upgrade(bot,update):
 𝟐.   𝐁𝐚𝐬𝐢𝐜  𝐏𝐥𝐚𝐧
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  10 ɢʙ
-👉     ʙᴜʏ  <a href='https://t.me/Kdrama_Clan'>₹ 49/ᴍᴏɴᴛʜ.</a> 
+👉     ʙᴜʏ  <a href='https://telegra.ph/Rename-Bot-premium-09-29'>₹ 30/ᴍᴏɴᴛʜ.</a> 
 	
 
 𝟑.   𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  50 ɢʙ
-👉     ʙᴜʏ  <a href='https://t.me/Kdrama_Clan'>₹ 99/ᴍᴏɴᴛʜ.</a>  
+👉     ʙᴜʏ  <a href='https://telegra.ph/Rename-Bot-premium-09-29'>₹ 70/ᴍᴏɴᴛʜ.</a>  
 	
 
 𝟒.   𝐏𝐫𝐞𝐦𝐢𝐮𝐦  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  100 ɢʙ
-👉     ʙᴜʏ  <a href='https://t.me/Kdrama_Clan'>₹ 199/ᴍᴏɴᴛʜ.</a>
+👉     ʙᴜʏ  <a href='https://telegra.ph/Rename-Bot-premium-09-29'>₹ 150/ᴍᴏɴᴛʜ.</a>
 
 •°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 
@@ -40,7 +40,7 @@ async def upgrade(bot,update):
             InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/Zenitsu_AF')
             ],
                     [
-            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://t.me/Kdrama_Clan')
+            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/Rename-Bot-premium-09-29')
             ],
                     [
                         InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://t.me/Kdrama_Clan'),
@@ -66,19 +66,19 @@ async def upgradecm(bot,message):
 𝟐.   𝐁𝐚𝐬𝐢𝐜  𝐏𝐥𝐚𝐧
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  10 ɢʙ
-👉     ʙᴜʏ  <a href='https://t.me/Kdrama_Clan'>₹ 49/ᴍᴏɴᴛʜ.</a> 
+👉     ʙᴜʏ  <a href='https://telegra.ph/Rename-Bot-premium-09-29'>₹ 30/ᴍᴏɴᴛʜ.</a> 
 	
 
 𝟑.   𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  50 ɢʙ
-👉     ʙᴜʏ  <a href='https://t.me/Kdrama_Clan'>₹ 99/ᴍᴏɴᴛʜ.</a>  
+👉     ʙᴜʏ  <a href='https://telegra.ph/Rename-Bot-premium-09-29'>₹ 70/ᴍᴏɴᴛʜ.</a>  
 	
 
 𝟒.   𝐏𝐫𝐞𝐦𝐢𝐮𝐦  𝐏𝐥𝐚𝐧 
 
 👉     ᴅᴀɪʟʏ  ʟɪᴍɪᴛ  100 ɢʙ
-👉     ʙᴜʏ  <a href='https://t.me/Kdrama_Clan'>₹ 199/ᴍᴏɴᴛʜ.</a>
+👉     ʙᴜʏ  <a href='https://telegra.ph/Rename-Bot-premium-09-29'>₹ 150/ᴍᴏɴᴛʜ.</a>
 
 •°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•°•
 
@@ -90,7 +90,7 @@ async def upgradecm(bot,message):
             InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/Zenitsu_AF')
             ],
                     [
-            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://t.me/Kdrama_Clan')
+            InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/Rename-Bot-premium-09-29')
             ],
                     [
                         InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://t.me/Kdrama_Clan'),
