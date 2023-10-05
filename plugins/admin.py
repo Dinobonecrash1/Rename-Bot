@@ -74,8 +74,8 @@ async def vip3(bot,update):
 async def dft(bot,update):
 	id = update.message.reply_to_message.text.split("/resetpower")
 	user_id = id[1].replace(" ", "")
-	inlimit = 2147483648
-	uploadlimit(int(user_id), 2147483648)
+	inlimit = 4294967296
+	uploadlimit(int(user_id), 4294967296)
 	usertype(int(user_id),"Free")
 	addpre(int(user_id))
 	await update.message.edit("ᴜꜱᴇʀ  ʟɪᴍɪᴛ  ʜᴀꜱ  ʙᴇᴇɴ  ʀᴇꜱᴇᴛ  ꜱᴜᴄᴄᴇꜱꜱꜱꜰᴜʟʟʏ.")
